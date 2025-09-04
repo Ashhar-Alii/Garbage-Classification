@@ -19,7 +19,7 @@ The goal is to automate *waste segregation* and support *efficient recycling*.
 ---
 
 📊 Results
-- Achieved *XX% accuracy* on test data  
+- Achieved 72.96% accuracy on test data  
 - Reliable performance in real-world waste classification tasks  
 
 ---
